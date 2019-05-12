@@ -1,0 +1,16 @@
+C:\Projekty\stacjait\netcore\src\cw1\bin\Debug\netcoreapp2.2\TestProjekt.Views.dll
+C:\Projekty\stacjait\netcore\src\cw1\bin\Debug\netcoreapp2.2\TestProjekt.Views.pdb
+C:\Projekty\stacjait\netcore\src\cw1\bin\Debug\netcoreapp2.2\cw1.deps.json
+C:\Projekty\stacjait\netcore\src\cw1\bin\Debug\netcoreapp2.2\cw1.runtimeconfig.json
+C:\Projekty\stacjait\netcore\src\cw1\bin\Debug\netcoreapp2.2\cw1.runtimeconfig.dev.json
+C:\Projekty\stacjait\netcore\src\cw1\bin\Debug\netcoreapp2.2\cw1.dll
+C:\Projekty\stacjait\netcore\src\cw1\bin\Debug\netcoreapp2.2\cw1.pdb
+C:\Projekty\stacjait\netcore\src\cw1\bin\Debug\netcoreapp2.2\TestProjekt.dll
+C:\Projekty\stacjait\netcore\src\cw1\bin\Debug\netcoreapp2.2\TestProjekt.pdb
+C:\Projekty\stacjait\netcore\src\cw1\obj\Debug\netcoreapp2.2\cw1.csprojAssemblyReference.cache
+C:\Projekty\stacjait\netcore\src\cw1\obj\Debug\netcoreapp2.2\cw1.csproj.CoreCompileInputs.cache
+C:\Projekty\stacjait\netcore\src\cw1\obj\Debug\netcoreapp2.2\cw1.AssemblyInfoInputs.cache
+C:\Projekty\stacjait\netcore\src\cw1\obj\Debug\netcoreapp2.2\cw1.AssemblyInfo.cs
+C:\Projekty\stacjait\netcore\src\cw1\obj\Debug\netcoreapp2.2\cw1.csproj.CopyComplete
+C:\Projekty\stacjait\netcore\src\cw1\obj\Debug\netcoreapp2.2\cw1.dll
+C:\Projekty\stacjait\netcore\src\cw1\obj\Debug\netcoreapp2.2\cw1.pdb
